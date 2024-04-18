@@ -54,13 +54,6 @@ Deployment:
 •	Deploy the analytics solution in a scalable and accessible manner.
  
 	2 Data Exploration and Preprocessing
-2.1 Data Quality Report
-Table 1. Data Quality Report for Categorical Features
- 
- 
- 
-Table 2. Data Quality Report for Continuous Features
- 
 
 Life Expectancy:
 •	The distribution of life expectancy is centered around the mean of approximately 69.22 years.
